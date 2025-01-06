@@ -1,0 +1,6 @@
+@FruitsAPI.NET_HostAddress = http://localhost:5124
+
+GET {{FruitsAPI.NET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
